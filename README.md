@@ -12,7 +12,7 @@ PamTech had a variation of Google Homepage she used for the tutorial. I also had
 
 ## Results
 * A screenshot of the GOOGLE Homepage I attempted to clone:
-![Google Nigeria](assets\google-home.png)
+![Google Nigeria](assets/google-home.png)
 
 * A screenshot of the GOOGLE clone I created.
-![Google Nigeria](assets\google-clone.png)
+![Google Nigeria](assets/google-clone.png)
